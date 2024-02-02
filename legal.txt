@@ -7,7 +7,12 @@ Additional code from contributors and libraries in this export are licenced as f
 MIT:
 
 - glmatrix by toji (https://github.com/toji/gl-matrix)
+- opentype (https://github.com/opentypejs/opentype.js)
 
 Public Domain:
 
 - Photoshop math GLSL shaders by Romain Dura (https://mouaif.wordpress.com/2009/01/05/photoshop-math-with-glsl-shaders/)
+
+ISC:
+
+- earcut.js (https://github.com/mapbox/earcut)
